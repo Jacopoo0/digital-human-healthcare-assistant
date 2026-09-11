@@ -1,4 +1,7 @@
+
 # Digital Human — Centro Medico San Marco
+
+<img width="1915" height="938" alt="Screenshot 2026-09-11 114310" src="https://github.com/user-attachments/assets/e26be70a-9216-413d-8fcc-fa624fe9062c" />
 
 Assistente vocale sanitario in tempo reale: conversazione a voce bidirezionale con Google Gemini Live, avatar video fotorealistico in lip-sync (Simli), knowledge base locale e guardrail clinico con trasferimento automatico a operatore umano.
 
